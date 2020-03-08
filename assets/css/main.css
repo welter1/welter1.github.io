@@ -3028,12 +3028,10 @@ input, select, textarea {
 
 				#header:before {
 					height: calc(100% - 25px);
-					z-index:0:
 				}
 
 				#header:after {
 					height: 25px;
-					z-index:0;
 				}
 
 				#header h1 {
@@ -3223,6 +3221,7 @@ input, select, textarea {
 
 			#main {
 				padding: 2em 0 2em 0;
+				z-index: -1;
 			}
 
 	}
