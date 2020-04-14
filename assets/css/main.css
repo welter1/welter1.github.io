@@ -3174,6 +3174,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
+				background-attachment: scroll,							scroll,							scroll;
 				background-image: url(""), url(""), url("https://welter1.github.io/images/michael-dziedzic-YmgTIrUJCgc-unsplash.jpg");
 				background-size: 1280px 184px,						auto,							cover;
 				padding: 3em 0 7em 0;
