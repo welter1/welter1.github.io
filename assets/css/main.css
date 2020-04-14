@@ -2820,7 +2820,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 1px;
-			z-index: 0;
+			z-index: -1;
 		}
 
 		#footer a {
