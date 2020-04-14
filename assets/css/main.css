@@ -2910,7 +2910,7 @@ input, select, textarea {
 
 		#main:before {
 			background: rgba(224, 224, 224, 0.75);
-			
+			content: '';
 			height: 100%;
 			left: 50%;
 			position: absolute;
