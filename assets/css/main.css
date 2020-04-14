@@ -2798,7 +2798,7 @@ input, select, textarea {
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
-		background-size: cover;
+		background-size: 3200px 460px;
 		color: rgba(255, 255, 255, 0.8);
 		/*
 				Since the SVG background occupies a lot of vertical space, we'll
