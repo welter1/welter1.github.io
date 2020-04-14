@@ -2810,7 +2810,6 @@ input, select, textarea {
 		padding: calc(460px + 6em) 0 10em 0;
 		position: relative;
 		text-align: center;
-		z-index: -1;
 	}
 
 		#footer:before {
@@ -2820,7 +2819,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 1px;
-			z-index: -1;
+			z-index: 0;
 		}
 
 		#footer a {
